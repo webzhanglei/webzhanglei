@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Zhang Lei
 
-<!--
-**webzhanglei/webzhanglei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🚀 Interested in AI / WebRTC / KVM  
+🌏 From China  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 I am currently working on **ArkKVM**
+- 🌱 Learning **AI / WebRTC / System Development**
+- 💡 Interested in **AI tools and open source projects**
+
+---
+
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Vue](https://img.shields.io/badge/Vue-42b883?logo=vue.js)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?logo=node.js)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=webzhanglei&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webzhanglei&layout=compact&theme=tokyonight)
+
+---
+
+⭐ Welcome to visit my GitHub!
